@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HigherLower</string>
+    <string name="higher_or_lower">Higher or Lower</string>
+    <string name="start_the_game">Start the game</string>
+    <string name="back">Back</string>
+    <string name="points_0">Points: 0</string>
+    <string name="h_gre">Högre</string>
+    <string name="l_gre">Lägre</string>
+    <string name="lower">Lower</string>
+    <string name="higher">Higher</string>
+</resources>
